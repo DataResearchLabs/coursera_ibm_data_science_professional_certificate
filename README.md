@@ -18,4 +18,4 @@ This repository is  part of the IBM/Coursera capstone project.  A requirement is
 **Matt Pierce**, MSDA, MCSE
 
 ## License
-This project is licensed under the Creative Commons License, see the [LICENSE](.\LICENSE) for details.
+This project is licensed under the Creative Commons Zero v1.0 Universal License, see the [LICENSE](./LICENSE) for details.
