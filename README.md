@@ -15,7 +15,7 @@ This repository is  part of the IBM/Coursera capstone project.  A requirement is
 * Website of Foursquare developer: https://developer.foursquare.com/
   
 ## Authors
-**Matt Pierce**, 
+**Matt Pierce**, MSDA, MCSE
 
 ## License
-This project is licensed under the Creative Commons License
+This project is licensed under the Creative Commons License, see the [LICENSE](.\LICENSE) for details.
