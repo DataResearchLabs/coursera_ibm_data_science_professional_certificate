@@ -23,5 +23,5 @@ This project is licensed under the Creative Commons Zero v1.0 Universal License,
 
 ## Social Media
 * IBM Certificate - https://coursera.org/share/66d0ed51777d74306383af5c2e4be342
-* Me on LinkedIn - https://www.linkedin.com/in/mpiercead576/
-* Me on YouTube - https://www.youtube.com/channel/UCQciXv3xaBykeUFc04GxSXA  (Data Research Labs)
+* LinkedIn - https://www.linkedin.com/in/mpiercead576/
+* YouTube - https://www.youtube.com/channel/UCQciXv3xaBykeUFc04GxSXA  (Data Research Labs)
