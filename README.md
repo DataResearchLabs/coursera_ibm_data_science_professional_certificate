@@ -22,7 +22,8 @@ This project is licensed under the Creative Commons Zero v1.0 Universal License,
 
 
 ## Social Media
-* IBM Certificate - https://coursera.org/share/66d0ed51777d74306383af5c2e4be342
+* Coursera Info - https://www.coursera.org/professional-certificates/ibm-data-science
+* My Certificate - https://coursera.org/share/66d0ed51777d74306383af5c2e4be342
 * LinkedIn - https://www.linkedin.com/in/mpiercead576/
 * YouTube - https://www.youtube.com/channel/UCQciXv3xaBykeUFc04GxSXA  (Data Research Labs)
-* Medium - https://medium.com/swlh/coursera-ibm-data-science-professional-certificate-review-78004fca9d6b
+* Medium Article - https://medium.com/swlh/coursera-ibm-data-science-professional-certificate-review-78004fca9d6b
